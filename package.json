@@ -11,17 +11,18 @@
     "url": "git+https://github.com/derrickjarr12/MACT6340Manager.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Derrick Jarrell",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/derrickjarr12/MACT6340Manager/issues"
   },
   "homepage": "https://github.com/derrickjarr12/MACT6340Manager#readme",
   "dependencies": {
-    "express": "^5.1.0",
-    "extra": "^0.2.1",
-    "fs": "^0.0.1-security",
-    "pinata": "^2.5.1",
-    "sdk": "^0.1.1"
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.3",
+    "hardhat": "^2.26.5",
+    "node-html-to-image": "^5.0.0",
+    "path": "^0.12.7"
   }
 }
