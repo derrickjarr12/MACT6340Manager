@@ -1,8 +1,9 @@
 {
   "name": "mact6340manager",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": " A tool to prep generative art projects for minting on the MACt6340 NFT",
+  "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
